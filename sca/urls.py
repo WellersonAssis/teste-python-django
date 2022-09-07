@@ -26,4 +26,6 @@ urlpatterns = [
 
     path('', include('aplic.urls')),
 
+
+
 ]
