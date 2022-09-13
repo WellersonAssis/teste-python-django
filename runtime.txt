@@ -1,0 +1,5 @@
+adicionar ao Git e marcar caixa para ser o default
+
+
+
+python-3.6.13
